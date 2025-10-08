@@ -7,15 +7,14 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Poppins', 'sans-serif'],
-        display: ['Bebas Neue', 'cursive'],
+        sans: ['Inter', 'sans-serif'],
       },
       colors: {
-        'brand-dark': '#101010',
-        'brand-light-dark': '#181818',
-        'brand-primary': '#8A2BE2',
-        'brand-secondary': '#A020F0',
-        'brand-accent': '#00FFFF',
+        background: '#121212',
+        surface: '#181818',
+        primary: '#FFFFFF',
+        secondary: '#AFAFAF',
+        accent: '#3B82F6', 
       },
     },
   },
