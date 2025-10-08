@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Boys",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/cc/The_Boys_Season_4.jpg",
+      "tags": ["Ação", "Drama", "Sci-Fi", "Crime"],
+      "description": "The Boys é uma série de televisão de ação e drama baseada na série de quadrinhos de mesmo nome criada por Garth Ennis e Darick Robertson. A série, desenvolvida por Eric Kripke, estreou no Amazon Prime Video e rapidamente ganhou popularidade por sua abordagem sombria e satírica ao gênero de super-heróis.",
+      "rating": 4.6
+    },
+    {
+      "id": 2,
+      "title": "Breaking Bad",
+      "image": "https://images.amcnetworks.com/ce.amc.com/wp-content/uploads/2015/04/BreakingBadS6_main_notext.jpg",
+      "tags": ["Crime", "Drama"],
+      "description": "O professor de química Walter White não acredita que sua vida possa piorar ainda mais. Quando descobre que tem câncer terminal, Walter decide arriscar tudo para ganhar dinheiro enquanto pode, transformando sua van em um laboratório de metanfetamina.",
+      "rating": 4.9
+    },
+    {
+      "id": 3,
+      "title": "The Flash",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6_W8qXM4Z0dsnTjCOsv_SrGzR2QqQCIAwcvM6fvrjgOCdzedST4pfU4ZxTXhnwaGbW_H7UPEtZBrgJNWLYGYChziorF1592bgFTm6zY_B-7U-GrDaq4yA50vkEpYfi-reJE3m2IuSPgPyrq26mkAHRJz_Oh0qhbjBNFR9mEARXpSR3WXSCI2WOlqgorc/s952/ed58bc21abdc12c3ad62881a2fa9c41d.jpg",
+      "tags": ["Super-herói", "Ação", "Drama", "Comedia"],
+      "description": "Acompanhe as aventuras do homem mais veloz do planeta, o cientista da Central City Police Barry Allen, que após um trágico acidente adquire o poder da velocidade.",
+      "rating": 3.9
+    }
+  ]
+}
