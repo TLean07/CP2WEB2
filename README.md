@@ -1,4 +1,4 @@
-<h1 align="center">CineMinimal</h1>
+<h1 align="center">CineFlex</h1>
 <p align="center">Projeto Checkpoint 5 - React Intermediário e Integração com APIs</p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Framework-Framer_Motion-purple.svg" alt="Framer Motion">
 </p>
 
-> `CineMinimal` é uma Single Page Application (SPA) moderna, responsiva e minimalista, projetada para explorar filmes populares utilizando a API do The Movie Database (TMDB). O projeto foi desenvolvido com uma arquitetura limpa em React, estilização profissional com Tailwind CSS e animações sutis com Framer Motion para uma experiência de usuário focada e elegante.
+> `CineFlex` é uma Single Page Application (SPA) moderna, responsiva e minimalista, projetada para explorar filmes populares utilizando a API do The Movie Database (TMDB). O projeto foi desenvolvido com uma arquitetura limpa em React, estilização profissional com Tailwind CSS e animações sutis com Framer Motion para uma experiência de usuário focada e elegante.
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### 📖 Sobre o Projeto
 
-O projeto **CineMinimal** nasceu como um exercício para aplicar conceitos intermediários de React e evoluiu para uma aplicação web sofisticada com foco em design minimalista. A aplicação consome dados reais da API do TMDB, permitindo que os usuários descubram e pesquisem filmes populares de forma intuitiva.
+O projeto **CineFlex** nasceu como um exercício para aplicar conceitos intermediários de React e evoluiu para uma aplicação web sofisticada com foco em design minimalista. A aplicação consome dados reais da API do TMDB, permitindo que os usuários descubram e pesquisem filmes populares de forma intuitiva.
 
 A principal filosofia de design foi "menos é mais". A interface foi construída para ser limpa, com muito espaço em branco, uma paleta de cores monocromática e uma tipografia forte (Inter), garantindo que o conteúdo — os pôsteres e as informações dos filmes — seja o protagonista.
 
@@ -86,7 +86,7 @@ Para rodar o projeto localmente, siga os passos abaixo.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
+    git clone https://github.com/TLean07/CP2WEB2.git
     cd cineflex
     ```
 
@@ -99,7 +99,7 @@ Para rodar o projeto localmente, siga os passos abaixo.
     * Crie um arquivo chamado `.env` na raiz do projeto.
     * Dentro dele, adicione sua chave de API do TMDB, como no exemplo abaixo:
     ```
-    VITE_API_KEY=SUA_CHAVE_DA_API_AQUI
+    VITE_API_KEY=7c572a9f5b3ba776080330d23bb76e1e
     ```
 
 4.  **Inicie o servidor de desenvolvimento:**
