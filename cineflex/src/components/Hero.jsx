@@ -1,6 +1,6 @@
 export function Hero({ searchTerm, setSearchTerm }) {
   return (
-    <div className="container mx-auto px-4 py-16 md:py-24 text-center">
+    <div className="container mx-auto px-4 py-16 md:py-24 text-center" >
       <h2 className="text-4xl md:text-5xl font-extrabold text-primary mb-4 tracking-tighter" >
         Seu Catálogo de Filmes.
       </h2>
